@@ -29,6 +29,7 @@
     #clock{
         grid-column: 2/ span 3;
         font-size: 120px;
+        color:rgb(114, 113, 113);
         }
     }
 
